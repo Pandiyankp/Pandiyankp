@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <ul>
   <li>A Frontend Developer (React)&nbsp;💻</li>
   <li>Currently Looking For Opportunities 🏢</li>
-  <li>Fresher</li>
-    <li>B.E computer science engineer</li>
+  <li>Fresher ⚡♟</li>
+    <li>B.E computer science engineer 🎓</li>
 
   
 </ul>
